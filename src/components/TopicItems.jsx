@@ -1,4 +1,5 @@
 /* eslint-disable react/prop-types */
+import Prism from 'prismjs';
 
 import '../styles/TopicItems.css';
 const TopicItems = ({idx,topicName,syntax,explanation,videoLink})=>{
